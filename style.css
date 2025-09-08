@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(101, 101, 101);
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+#id1 {
+    background-color: rgb(31, 31, 31);
+    color: rgb(170, 170, 170);
+    text-align: center;
+}
+
+#id2 {
+    background-color: rgb(33, 33, 33);
+    text-align: center;
+}
+
+#id2 li {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#id2 a {
+    color: white;
+}
+
+#idsobre {
+    background-color: rgb(102, 102, 102);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+#idlanc {
+    background-color: rgb(103, 103, 103);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+#idcurio {
+    background-color: rgb(104, 104, 104);   
+    border: 2px solid rgb(0, 0, 0);
+}
+
+footer {
+    background-color: rgb(32, 32, 32);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
